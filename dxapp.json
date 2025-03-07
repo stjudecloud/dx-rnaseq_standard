@@ -3,7 +3,7 @@
   "title": "St. Jude Cloud RNA-Seq V2 pipeline",
   "summary": "Align RNA-Seq to hg38",
   "dxapi": "1.0.0",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "developers": ["user-athrashe"],
   "authorizedUsers": [
       "user-appdpdnanexus_stjude.org",
@@ -103,8 +103,8 @@
     "interpreter": "bash",
     "file": "src/stjude_rnaseqv2.sh",
     "distribution": "Ubuntu",
-    "release": "16.04",
-    "version": "1"
+    "release": "24.04",
+    "version": "0"
   },
   "access": {
     "network": [
